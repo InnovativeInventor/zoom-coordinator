@@ -3,6 +3,7 @@ config.py
 index.db
 .idea/
 data/
+data/courses.csv
 data/**
 
 # Byte-compiled / optimized / DLL files
